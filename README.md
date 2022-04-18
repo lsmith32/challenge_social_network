@@ -11,8 +11,8 @@ An API for a social network that uses a NoSQL database.
 * Mongoose
 
 
-## Websitefile:
-https://lsmith32.github.io/challenge_social_network/
+## Demo:
+https://drive.google.com/file/d/1gz0WT_t3fSbxnP89GunsQ4LVEv3ZK8US/view?usp=sharing
 
 ## Contribution
 Made with :heart: by Lauren
